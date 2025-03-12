@@ -26,7 +26,7 @@ A minimal yet powerful **React Native** to-do list app that helps you stay organ
 
 Run the app instantly on **Expo Snack**:  
 
-🔗 [**Try it on Expo Snack**](https://snack.expo.dev/)  
+🔗 [**Try it on Expo Snack**](https://snack.expo.dev/@zeyad-mostafa/todolist)  
 
 ---
 
